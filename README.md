@@ -1,5 +1,7 @@
-<h1 align="center">Welcome to MK_Test 👋</h1>
-<p>Simple ft_printf tester for the <b>mandatory</b> requirements</p>
+<h1 align="center">Welcome to the MK_Test 👋</h1>
+<p>Simple <b>ft_printf</b> tester for the <b>mandatory</b> requirements</p>
+<img align="right" height="50px" src="/asset.png" alt="grumpy cat"/>
+
 
 > # Disclaimer
 <p> This tester only checks the MANDATORY requirements of the 42 "ft_printf" subject, which are the following conversions:</p>
@@ -37,7 +39,7 @@ And profit 🤗
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️  if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+This README was generated with ❤️  by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
