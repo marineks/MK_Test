@@ -1,10 +1,18 @@
 <h1 align="center">Welcome to MK_Test 👋</h1>
-<p>Simple printf tester for the mandatory requirements</p>
+<p>Simple ft_printf tester for the <b>mandatory</b> requirements</p>
 
-> # MK_Test
+> # Disclaimer
+<p> This tester only checks the MANDATORY requirements of the 42 "ft_printf" subject.</p>
 
 ## Install
 
+Please clone the repo in the root folder of your project:
+
+```sh
+				|--- your files
+---- ft_printf  |
+				|--- mk_test
+```
 ```sh
 git clone https://github.com/marineks/MK_Test.git
 ```
@@ -12,8 +20,10 @@ git clone https://github.com/marineks/MK_Test.git
 ## Usage
 
 ```sh
+make
 make tests
 ```
+And profit 🤗
 
 ## Show your support
 
