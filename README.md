@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to the MK_Test 👋</h1>
 
 <img align="right" height="80px" src="asset.png" alt="grumpy cat"/>
-<p>Tired of Simple <b>ft_printf</b> tester for the <b>mandatory</b> requirements</p>
+<p>Simple <b>ft_printf</b> (2021) tester for the <b>mandatory</b> requirements</p>
 
-## Disclaimer
+## Disclaimers
 <p> This tester only checks the MANDATORY requirements of the 42 "ft_printf" subject, which are the following conversions:</p>
 <ul>
 <li> %%</li>
@@ -16,11 +16,11 @@
 <li> %p</li>
 </ul>
 
-<p>Moreover, getting all green lights does not guarantee the moulinette will validate it.</p>
-<p> As such, do not hesitate to raise an issue or a pull request if you think a test is missing </p>
+<p>⚠️ Moreover, <b>getting all green lights does not guarantee the moulinette will validate it.</b></p>
+<p> As such, do not hesitate to raise an issue or a pull request if you think a test is missing !</p>
 
-## Pre-requisite
-<p>You need to have your own makefile for this tester to work. If you didn't make one yet, you can just use the main.c file and compile with the <i>gcc -Wall -Werror -Wextra</i> command.</p>
+## Pre-requisites
+<p>You need to have your own makefile for this tester to work. If you haven't make one yet, you can just use the main.c file and compile with the <i>gcc -Wall -Werror -Wextra</i> command.</p>
 
 ## Install
 
@@ -46,7 +46,7 @@ make tests
 
 ## Show your support
 
-Give a ⭐️  if this project helped you!
+Give a ⭐️   if this project helped you!
 
 ***
-This README was generated with ❤️  by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+This README was generated with ❤️   by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
