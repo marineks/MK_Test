@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to the MK_Test 👋</h1>
-<p>Simple <b>ft_printf</b> tester for the <b>mandatory</b> requirements</p>
-<img align="right" height="50px" src="asset.png" alt="grumpy cat"/>
 
+<img align="right" height="80px" src="asset.png" alt="grumpy cat"/>
+<p>Tired of Simple <b>ft_printf</b> tester for the <b>mandatory</b> requirements</p>
 
-> # Disclaimer
+## Disclaimer
 <p> This tester only checks the MANDATORY requirements of the 42 "ft_printf" subject, which are the following conversions:</p>
 <ul>
 <li> %%</li>
@@ -31,6 +31,7 @@ git clone https://github.com/marineks/MK_Test.git
 
 ## Usage
 
+Please go in the mk_test folder and run these commands:
 ```sh
 make
 make tests
