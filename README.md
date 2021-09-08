@@ -16,6 +16,12 @@
 <li> %p</li>
 </ul>
 
+<p>Moreover, getting all green lights does not guarantee the moulinette will validate it.</p>
+<p> As such, do not hesitate to raise an issue or a pull request if you think a test is missing </p>
+
+## Pre-requisite
+<p>You need to have your own makefile for this tester to work. If you didn't make one yet, you can just use the main.c file and compile with the <i>gcc -Wall -Werror -Wextra</i> command.</p>
+
 ## Install
 
 Please clone the repo in the root folder of your project:
@@ -31,12 +37,12 @@ git clone https://github.com/marineks/MK_Test.git
 
 ## Usage
 
-Please go in the mk_test folder and run these commands:
+Please go in the mk_test folder, run these commands:
 ```sh
 make
 make tests
 ```
-And profit 🤗
+...And profit 🤗
 
 ## Show your support
 
