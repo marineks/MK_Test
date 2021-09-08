@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the MK_Test 👋</h1>
 <p>Simple <b>ft_printf</b> tester for the <b>mandatory</b> requirements</p>
-<img align="right" height="50px" src="/asset.png" alt="grumpy cat"/>
+<img align="right" height="50px" src="asset.png" alt="grumpy cat"/>
 
 
 > # Disclaimer
