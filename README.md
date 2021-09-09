@@ -20,7 +20,7 @@
 <p> As such, do not hesitate to raise an issue or a pull request if you think a test is missing !</p>
 
 ## Pre-requisites
-<p>You need to have your own makefile for this tester to work. If you haven't make one yet, you can just use the main.c file and compile with the <i>gcc -Wall -Werror -Wextra</i> command.</p>
+<p>You need to have your own makefile for this tester to work. If you haven't made one yet, you can just use the main.c file and compile with the <i>gcc -Wall -Werror -Wextra</i> command.</p>
 
 ## Install
 
